@@ -1,4 +1,4 @@
 [wokwi]
 version = 1
-firmware = 'build/DisplayC.uf2'
-elf = 'build/DisplayC.elf'
+firmware = 'Leitura_serial_Display.uf2'
+elf = 'Leitura_serial_Display.elf'
